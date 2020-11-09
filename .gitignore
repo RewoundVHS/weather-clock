@@ -1,2 +1,5 @@
 remove-api.sh
 draw.bmp
+*.png
+*.bak
+.mypy_cache*
